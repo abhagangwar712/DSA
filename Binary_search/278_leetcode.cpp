@@ -1,3 +1,5 @@
+// LEETCODE LINK : https://leetcode.com/problems/first-bad-version/submissions/1684171961/
+
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
 
